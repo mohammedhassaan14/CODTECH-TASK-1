@@ -1,8 +1,13 @@
 Name: Mohammed Hassaan.VT
+
 Company: CODTECH IT SOLUTIONS PVT.LTD
+
 ID: CT4PP2997
+
 Domain: Python Programming
+
 Duration: June to 25 July 2024
+
 Mentor: Muzammil Ahmed
 
 Overview Of The Project
